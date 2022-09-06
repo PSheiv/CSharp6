@@ -1,0 +1,15 @@
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/bin/Debug/net6.0/CSharp6
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/bin/Debug/net6.0/CSharp6.deps.json
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/bin/Debug/net6.0/CSharp6.runtimeconfig.json
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/bin/Debug/net6.0/CSharp6.dll
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/bin/Debug/net6.0/CSharp6.pdb
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.csproj.AssemblyReference.cache
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.AssemblyInfoInputs.cache
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.AssemblyInfo.cs
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.csproj.CoreCompileInputs.cache
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.dll
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/refint/CSharp6.dll
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.pdb
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/CSharp6.genruntimeconfig.cache
+/Users/PashaSheiv/Projects/CSharp6/CSharp6/obj/Debug/net6.0/ref/CSharp6.dll
